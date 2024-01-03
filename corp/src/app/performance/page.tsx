@@ -1,3 +1,3 @@
-export default function Home() {
+export default function PerformancePage() {
   return <div>Performance page</div>;
 }
